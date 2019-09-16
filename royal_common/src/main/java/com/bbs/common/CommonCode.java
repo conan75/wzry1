@@ -4,7 +4,7 @@ package com.bbs.common;
 
 /**
  * @Author: Conan.
- * @Description:
+ * @Description:aaa
  * @Modified By:
  */
 public enum CommonCode implements ResultCode{
